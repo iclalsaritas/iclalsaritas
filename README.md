@@ -1,15 +1,15 @@
-### Hi there 👋, İclal Sarıtaş
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iclalsaritas) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iclalsaritas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iclalsaritas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iclalsaritas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iclalsaritas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Skills: KALI LINUX / PARROT OS / JS / HTML / CSS
+---
+[![](https://visitcount.itsvg.in/api?id=iclalsaritas&icon=1&color=6)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on Turkish Cyber Union 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iclalsaritas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iclalsaritas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pwnlab.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/envato.svg' alt='envato' height='40'>](https://turksiberbirligi.com/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclalsaritas)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=iclalsaritas)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
