@@ -1,5 +1,5 @@
 ### Hi there 👋, İclal Sarıtaş
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 Skills: KALI LINUX / PARROT OS / JS / HTML / CSS
